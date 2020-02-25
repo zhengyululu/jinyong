@@ -1,0 +1,23 @@
+{
+  "name": "jinyong",
+  "version": "1.0.0",
+  "description": "金庸小说简介。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengyululu/jinyong.git"
+  },
+  "keywords": [],
+  "author": "zhengyululu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengyululu/jinyong/issues"
+  },
+  "homepage": "https://github.com/zhengyululu/jinyong#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
